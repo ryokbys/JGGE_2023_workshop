@@ -2,7 +2,7 @@
 
 This starter kit was made for a workshop *"How to organize research information"* in JGGE kick-off meeting on Feb. 28, 2023.
 
-[![[JGGE-logo.png|400]]](http://jgge-eng.web.nitech.ac.jp/)
+[![[JGGE-logo.png]]](http://jgge-eng.web.nitech.ac.jp/)
 
 ## Quick start
 
