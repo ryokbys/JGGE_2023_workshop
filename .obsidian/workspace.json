@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "fa30c01dba5e63aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6b539f659a932fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a41b39ede4a99b70",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "820c51436b38c2f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5733ba9538e2b174",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "223c6604c96ae1e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1068db6eb519f7ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b977473d5da747a9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8ea669632d3adf48",
+    "type": "split",
+    "children": [
+      {
+        "id": "736ec83e3d39a372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d842dd2b67f6296",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b5c111725afcfea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db4d3ba789e86d71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "044bb40a44dd0213",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "a41b39ede4a99b70",
+  "lastOpenFiles": [
+    "JGGE kick-off meeting 2023 workshop.md",
+    "Metadata.md",
+    "Outliner.md",
+    "Weekly notes.md",
+    "_weekly_notes/2023-W02.md",
+    "Map of contents.md",
+    "Year 2023.md",
+    "000 Index.md",
+    "Literature notes.md",
+    "Untitled.canvas"
+  ]
+}

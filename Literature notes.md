@@ -10,8 +10,9 @@ tags: JGGE_workshop
   - Zotero
   - Mendeley
   - Paperpile
-- An Obsidian community plug-in helps:
-  - Paperpile can automatically export whole data to a BibTex file.
-  - Obsidian can look for a paper and create a literature note.
-  - ==> Demo: create a literature note for a paper by A. Einstein 😉
+- An Obsidian community plug-in (*Citations*) helps:
+  - ![[230224_literature-note_workflow.jpeg|600]]
+  - [Paperpile](https://paperpile.com) can automatically export whole database to a local BibTex file.
+  - The *Citation* plug-in helps looking for literature info and creates a literature note.
+  - ==> Demo: create a literature note for a paper by A. Einstein of $E=mc^2$.
 

@@ -10,6 +10,7 @@ This starter kit was made for a workshop *"How to organize research information"
 2. Download this repository (a directory) and place it to wherever you want.
 3. Open the directory (called *vault*) in the Obsidian app.
 4. Enable community plugins.
+5. Start [[JGGE kick-off meeting 2023 workshop]]!
 
 ## Links
 

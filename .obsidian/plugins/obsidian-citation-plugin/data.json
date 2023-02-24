@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "_literature_notes",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\njournal: {{containerTitle}}\nyear: {{year}}\ntags: paper\n---\n\n# {{title}}\n\n### <% `${tp.user.authorShort(\"{{authorString}}\")}, (${\"{{year}}\"}) ${\"{{containerTitle}}\"}` %>\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "./reference.bib"
+}

@@ -5,15 +5,16 @@ tags: JGGE_workshop
 
 # Outliner
 
-- We usually write a journal paper in IMRaD structure
+- We usually write a journal paper in **IMRaD** structure.
   - Introduction, Method, Results and Discussion
   - Several paragraphs in each section
-- Outliner helps us to charge the order of sentences/paragraphs
+- *Outliner* plug-in helps us to charge the order of sentences/paragraphs
 
+---
 
 ## Example
 
-The following outline example is the one actually made for this workshop.
+The following outline example is the one I actually made for this workshop.
 
 ### Introduction and concept
 
@@ -115,7 +116,7 @@ The following outline example is the one actually made for this workshop.
         - Paperpile can automatically export whole data in it to a BibTex file
         - Obsidian can look for a paper using any keyword and create a literature note
 
-### How about yours?
+### What's yours?
 
 - I am not saying this is the best way of organizing your information, just introducing my recent way of doing that.
 - I will be happy to know other ways:

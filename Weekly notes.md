@@ -10,10 +10,10 @@ tags: weekly_note, JGGE_workshop
   - weekly notes
   - monthly notes
 - I personally prefer granularity of weekly notes over daily notes.
-- *Calendar plugin* in Obsidian helps.
+- *Calendar* plug-in helps.
 
 ## Examples
 
 - [[2023-W02]]
-- Creating a new weekly note using [[weekly template]].
-  - ==> **Demo**: create a new weekly note using a command
+- Creating a new weekly note using [[weekly template]] which requires the *Templater* plug-in.
+  - ==> **Demo**: create a new weekly note using a command.
