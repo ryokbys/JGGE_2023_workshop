@@ -51,7 +51,7 @@ $$
 ### Links
 
 - An external website can be linked like [this](https://obsidian.md).
-- An internal link between notes is in the wiki style, [[JGGE kick-off meeting 2023 workshop]].
+- An internal link between notes is in the wiki style, [[JGGE kick-off meeting 2023 workshop]]. 
 - Or you can embed a part of an other note like:
   ![[JGGE kick-off meeting 2023 workshop#Basics]]
 

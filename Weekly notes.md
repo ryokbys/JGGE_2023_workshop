@@ -10,7 +10,7 @@ tags: weekly_note, JGGE_workshop
   - weekly notes
   - monthly notes
 - I personally prefer granularity of weekly notes over daily notes.
-- *Calendar* plug-in helps.
+- *Periodic notes* plug-in helps.
 
 ## Examples
 

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e6b539f659a932fa",
+        "id": "3509d90fd2e8624f",
         "type": "tabs",
         "children": [
           {
-            "id": "a41b39ede4a99b70",
+            "id": "4c856b11efbcf19b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Literature notes.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#JGGE_workshop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8ea669632d3adf48",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Literature notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,10 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Literature notes.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -140,17 +148,18 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a41b39ede4a99b70",
+  "active": "4c856b11efbcf19b",
   "lastOpenFiles": [
-    "JGGE kick-off meeting 2023 workshop.md",
     "Metadata.md",
-    "Outliner.md",
     "Weekly notes.md",
+    "JGGE kick-off meeting 2023 workshop.md",
+    "README.md",
+    "Literature notes.md",
+    "Year 2023.md",
+    "Outliner.md",
     "_weekly_notes/2023-W02.md",
     "Map of contents.md",
-    "Year 2023.md",
     "000 Index.md",
-    "Literature notes.md",
-    "Untitled.canvas"
+    "Markdown style.md"
   ]
 }

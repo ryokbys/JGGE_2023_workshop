@@ -13,6 +13,6 @@ tags: JGGE_workshop
 - An Obsidian community plug-in (*Citations*) helps:
   - ![[230224_literature-note_workflow.jpeg|600]]
   - [Paperpile](https://paperpile.com) can automatically export whole database to a local BibTex file.
-  - The *Citation* plug-in helps looking for literature info and creates a literature note.
-  - ==> Demo: create a literature note for a paper by A. Einstein of $E=mc^2$.
+  - The *Citation* plug-in helps looking for literature info and creates a literature note. (There seems some bugs in the plug-in, though...)
+  - ==> **Demo**: create a literature note for the paper of $E=mc^2$ by A. Einstein.
 

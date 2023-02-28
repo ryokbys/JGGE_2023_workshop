@@ -9,8 +9,10 @@ Hands-on!
 
 ## Basics
 
-1. [[Markdown style]]
-2. [[Map of contents]]
+1. Directory structure in Obsidian and PC.
+2. Some icons, commands, side bars, views.
+3. [[Markdown style]]
+4. [[Map of contents]]
 
 ## Nerdier tips
 

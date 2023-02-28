@@ -29,8 +29,8 @@ The following outline example is the one I actually made for this workshop.
         - start from an outline
         - even write an outline/paper before starting experiments
     - To produce research papers, you need:
-        - issues/problems to be solved <--- a lot of literature surveys
         - hypothesis <--- clear descriptions
+        - issues/problems to be solved <--- a lot of literature surveys
         - experiments/simulations <--- clear descriptions, explanations
             - data are generated on this stage ---> organizing research data is important as well, but different from this topic
         - discussions <--- compare with former studies
